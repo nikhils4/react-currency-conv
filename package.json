@@ -1,6 +1,6 @@
 {
   "name": "react-currency-conv",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "private": false,
   "babel": {
     "presets": [
@@ -12,6 +12,12 @@
     "react-dom": "^16.13.1",
     "react-scripts": "3.4.3"
   },
+  "keywords": [
+    "react",
+    "currency-converter",
+    "converter",
+    "currency"
+  ],
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",

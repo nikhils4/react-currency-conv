@@ -4,10 +4,9 @@ React component for currency conversion. Supports fetching latest and historical
 
 ## Changes
 
-## v1.0.2:
+## v1.0.3:
 
-- Intial version
-- Few bug fixes
+- Update documentation
 
 ## Installation
 
@@ -70,8 +69,8 @@ All other attributes are applied normally to the element. For example, you can i
 ## Options
 
 Option            | Default Value | Description
------------------ | ------------- | -----------------------------------------------------------------------------
-date              | 0             | The initial currency value
+----------------- | ------------- | -----------------------------------------------------------------------------------------
+date              | null          | Date you want to fetch exchange rate of (YYYY-MM-DD)
 precision         | 2             | Number of digits after the decimal separator
 
 
