@@ -1,6 +1,6 @@
 {
   "name": "react-currency-conv",
-  "version": "1.0.4",
+  "version": "1.1.0",
   "private": false,
   "babel": {
     "presets": [
@@ -44,13 +44,10 @@
     "@babel/cli": "^7.11.6",
     "@babel/preset-react": "^7.10.4"
   },
-  "author": "nikhils4",
+  "author": "Nikhil Singh <nikhils4>",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/nikhils4/react-currency-conv/issues"
   },
-  "homepage": "https://github.com/nikhils4/react-currency-conv#react-currency-conv",
-  "publishConfig": { 
-    "registry": "https://npm.pkg.github.com/" 
-  }
+  "homepage": "https://github.com/nikhils4/react-currency-conv#react-currency-conv"
 }

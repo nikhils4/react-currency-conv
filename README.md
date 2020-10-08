@@ -4,9 +4,10 @@ React component for currency conversion. Supports fetching latest and historical
 
 ## Changes
 
-## v1.0.4:
+## v1.1.0:
 
 - Update documentation
+- Minor bug fixes
 
 ## Installation
 
